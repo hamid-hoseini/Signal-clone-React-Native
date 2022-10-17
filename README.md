@@ -1,4 +1,3 @@
-### In Progress...
 
 # Signal clone with REACT Native
   A copy of the Signal app to learn and improve coding skills with the React Native framework.
